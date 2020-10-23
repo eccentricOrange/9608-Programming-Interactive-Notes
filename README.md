@@ -1,4 +1,4 @@
-# Interactive Notes for Computer Science compinents 9608/2 and 9608/4
+# Interactive Notes for Computer Science components 9608/2 and 9608/4
 This repository contains two [Jupyter](https://jupyter.org/) notebooks which giude the learner through understand the course using Python 3. They allow you to read documentation (explanation) and then try out code immedeatly. The notebooks are also available using [Binder](https://mybinder.org/) and [Google Colaboratory](https://colab.research.google.com/) which can run in a web browser, so the viewer does not have to install any software to view them.
 
 The notebooks here are designed specifically for the [CAIE 9608 Computer Science](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9608/) syllabus. These notebooks do not cover the full syllabus but have a comprehensive coverage of the topics related to programming.
